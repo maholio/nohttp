@@ -30,3 +30,6 @@ cd /tmp
 
 ### DOUBLE CHECK THAT HTTPS SUPPORTED BEFORE RUNNING THE SCRIPT
 Just replace `http://` to `https://` in link. If Admin page works, you can run the script. If not, use its option to enable http again.
+
+## 🇺🇦 Author stands with Ukraine 🇺🇦
+If you want to thank me, please [donate to Ukrainian army](https://war.ukraine.ua)
