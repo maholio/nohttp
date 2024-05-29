@@ -1,6 +1,6 @@
 Hi there 👋 
 
-Wrote simple script to enable/disable port 80 on your router.
+This script will enable/disable port 80 on your router.
 
 ### How to use it?
 Run this commands on your host machine (NOT router):
